@@ -1,8 +1,6 @@
 <p align="center">
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in Nowhere" src="https://img.shields.io/badge/MADE%20IN-NOWHERE-SPACE?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
-![Install See-U Tool in Termux](https://github.com/mrjuice01/seeu/assets/100421286/464af1fd-70b5-437a-8cf1-e0d344a7d1be)
-
 
 <p align="center">
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in NOWHERE" src="https://img.shields.io/badge/Tool-seeu-green.svg"></a>
