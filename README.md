@@ -1,6 +1,9 @@
 <p align="center">
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in Nowhere" src="https://img.shields.io/badge/MADE%20IN-NOWHERE-SPACE?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
+![Install See-U Tool in Termux](https://github.com/mrjuice01/seeu/assets/100421286/464af1fd-70b5-437a-8cf1-e0d344a7d1be)
+
+
 <p align="center">
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Made in NOWHERE" src="https://img.shields.io/badge/Tool-seeu-green.svg"></a>
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
@@ -9,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/mrjuice01"><img title="Github" src="https://img.shields.io/badge/mrjuice01-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/@mrjuiceofc"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr juice OFC-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mrjuice01"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
