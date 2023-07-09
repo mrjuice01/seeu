@@ -17,8 +17,8 @@ echo -e '\e[91m
 \e[92m              \ `--` /   \e[93m└─┐├┤ ├┤  \e[92m│ │
 \e[92m               `-..-`    \e[93m└─┘└─┘└─┘ \e[92m└─┘'
 echo
-echo -e '            \e[92m::: Tool By Noob Hackers :::\e[0m'
-echo -e '          \e[92m::: github.com/noob-hackers :::\e[0m'
+echo -e '            \e[92m::: Tool By Mr Juice :::\e[0m'
+echo -e '          \e[92m::: github.com/mrjuice01 :::\e[0m'
 echo -e "\e[92m"
 echo -e '                \e[100m CaMera HackiNg Tool\e[0m'
 echo
@@ -516,7 +516,7 @@ echo -e '\e[96m     [\e[92m+\e[96m]--------------'
 echo -e '\e[96m                      |'
 echo -e '\e[92m  THIS TOOLS IS ONLY FOR EDUCATIONAL PURPOSE SO'
 echo -e '\e[92m IM NOT RESPONSIBLE IF YOU DO ANY ILLEGAL THINGS'
-echo -e '\e[92m   THANKS FOR READING SUBSCRIBE {NOOB HACKERS}'
+echo -e '\e[92m   THANKS FOR READING SUBSCRIBE {MR JUICE OFC}'
 echo -e '\e[92m           HAVE A GOOD DAY BUDDIE :)'
 echo -e '\e[96m                      |'
 echo -e '\e[96m                      |'

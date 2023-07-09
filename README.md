@@ -6,9 +6,7 @@
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
-<p align="center">
-<a href="https://www.noob-hackers.com/2020/10/mrphish-tool-for-hacking-accounts.html"><img title="seeu" src="https://user-images.githubusercontent.com/49580304/133479935-46c38ed0-dfac-4003-9d26-a141ec92af83.jpg"></a>
-</p>
+
 <p align="center">
 <a href="https://github.com/mrjuice01"><img title="Github" src="https://img.shields.io/badge/mrjuice01-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
@@ -25,9 +23,6 @@
 ## ABOUT TOOL :
 
 seeu is a bash based script which is officially made for hacking cameras of devices with help of portforwarding and google bypass features. This tool works on both rooted Android device and Non-rooted Android device.
-
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
-</p>
 
 ## AVAILABLE ON :
 
@@ -100,7 +95,6 @@ __EXIT__ :
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
 
 ## CONNECT WITH US :
 
